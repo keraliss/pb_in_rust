@@ -1,2 +1,2 @@
 #![allow(unused)]
-mod ecc;
+pub mod ecc;
